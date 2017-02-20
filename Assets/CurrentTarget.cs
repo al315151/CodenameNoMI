@@ -9,5 +9,6 @@ public class CurrentTarget : MonoBehaviour {
     public void SetCurrentTarget(string target)
     {
         GetComponent<Text>().text = target;
+		//print ("Texto cambiado");
     }
 }
