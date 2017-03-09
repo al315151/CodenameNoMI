@@ -7,7 +7,7 @@ public class TextManager : MonoBehaviour {
 
 	//Los textos van en grupos de dos: beforePickUp y AfterPickUp.
 
-	//Podemos hacer lo siguiente: a el script PickUp se le pasa el TextManager,
+	//Podemos hacer lo siguiente: al script PickUp se le pasa el TextManager,
 	//del cual sustituirá DOS cadenas. Estas dos cadenas irán cambiando según una variable
 	//local que cambiará cuando, despues de AfterPickUp, se llame a una función que lo cambie.
 	//En preposition, añadiremos las preposiciones a destacar en cada uno.
